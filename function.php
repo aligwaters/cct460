@@ -3,7 +3,7 @@
  * Home for Paws functions and definitions.
  *
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
- *
+ * What to change 
  * @package Home_for_Paws
  */
 
